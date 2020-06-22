@@ -1,10 +1,11 @@
-.button-wrapper {
-    font-size: 1.25rem;
-    margin-top: 10px;
-    display: flex;
-    justify-content: center;
+.item-add-form {
+  font-size: 1.25rem;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .button-add {
-    width: 200px;
+  width: 200px;
+  margin-left: 3px;
 }

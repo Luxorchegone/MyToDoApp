@@ -1,14 +1,14 @@
 .app-header {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .app-header h1 {
-    flex-grow: 1;
+  flex-grow: 1;
 }
 
 .app-header h2 {
-    font-size: 1.2rem;
-    color: gray; 
+  font-size: 1.2rem;
+  color: gray;
 }
